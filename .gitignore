@@ -1,3 +1,7 @@
+# local files
+public/images
+public/pdf
+
 # Logs
 logs
 *.log
